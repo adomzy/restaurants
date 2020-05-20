@@ -1,10 +1,10 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 17076,
-  "expoServerNgrokUrl": "https://ig-t5b.anonymous.restaurants.exp.direct",
-  "packagerNgrokUrl": "https://packager.ig-t5b.anonymous.restaurants.exp.direct",
-  "ngrokPid": 14768,
+  "expoServerPort": null,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null,
   "webpackServerPort": null
 }
